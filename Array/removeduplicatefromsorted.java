@@ -1,3 +1,4 @@
+package Array;
 
 // Remove duplicate from sorted array 
 
